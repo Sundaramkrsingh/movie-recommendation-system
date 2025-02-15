@@ -1,0 +1,6 @@
+*.csv
+*.pkl
+.venv/
+.idea/
+.ipynb_checkpoints
+.
